@@ -1,1 +1,1 @@
-![Red and White.png](Red and White.png)
+<img src="RNW.png" alt="Alt text" width="300"/>
