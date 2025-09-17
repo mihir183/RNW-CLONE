@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.top{
+    background-color: red;
+}
+
+.top .select{
+    background-color: red;
+    color: white;
+    padding: 0 20px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+
+.top i{
+    /* transform: rotate(10deg); */
+    transform: scaleY(-1);
+    transform: scaleX(-1);
+}
+
+.carousel{
+    .carousel-inner{
+        height: 500px;
+    }
+}
+
+.course{
+    background-color: rgb(246, 243, 243);
+}
+
+@media screen and (max-width:552px) {
+    .carousel{
+    .carousel-inner{
+        height: 200px;
+    }
+}
+}
