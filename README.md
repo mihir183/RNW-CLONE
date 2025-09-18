@@ -1,1 +1,1 @@
-<img src="RNW.png" alt="Alt text" width="300"/>
+<img src="assets/images/RNW.png" alt="Alt text" width="300"/>
